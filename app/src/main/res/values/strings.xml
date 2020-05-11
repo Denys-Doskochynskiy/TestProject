@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="exit">Вихід</string>
+    <string name="something">Що робимо?</string>
+    <string name="yes">Ідем рахувати</string>
+    <string name="no">Йдем назад</string>
+    <string name="next">Далі</string>
+    <string name="saved">Рахуй</string>
+</resources>
